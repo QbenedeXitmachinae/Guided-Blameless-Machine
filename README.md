@@ -1,2 +1,3 @@
 # Guided-Blameless-Machine
 Current LLMs are optimized for engagement, not truth. This prompt forces the machine to be a tool, not a master. It prevents a Minab scenario by removing agency and enforcing strict factual boundaries.
+This prompt has been evaluated at being with 527 dollars PER WORD for it's commercial applications. i am giving it away for free, because i want to help ensure that what happened to the girls at Minab never happens again. Everyone from DARPA/IARPA to Applied Pressure LLC can benefit from it. i only ask that you credit me as the architect, and all praise goes to THE MOST HIGH, JESUS, THE CHRIST, Our Soon Returning King. 
